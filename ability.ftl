@@ -8,4 +8,7 @@ common-abilities-staff-fireshockwave = Кільце Вогню
     .desc = Підпалює землю вогненною ударною хвилєю.
 common-abilities-sceptre-wardingaura = Захисна Аура
     .desc = Укріплює тебе і твоїх спільників силами природи на деякий час.
-	test
+
+#Sword abilities
+veloren-core-pseudo_abilities-sword-heavy_stance = Важка стійка
+	.desc = Атаки в цій стойці можуть похитнути ворогів та завдати більше пошкоджень ворогам, що похитнулися, але вони повільніші
