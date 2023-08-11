@@ -74,7 +74,7 @@ veloren-core-pseudo_abilities-sword-fell_strike = Лютий Удар
         Модифікується залежно від вашої стійки
 common-abilities-sword-basic_fell_strike = Основний Лютий Удар
     .desc = Основний швидкий і сильний розріз
-common-abilities-sword-heavy_fell_strike =	Важкий Лютий Удар
+common-abilities-sword-heavy_fell_strike = Важкий Лютий Удар
     .desc = Сильний розріз, який може похитнути ворога
 common-abilities-sword-agile_fell_strike = Спритний Лютий Удар
     .desc = Дуже швидкий і сильний розріз
@@ -104,7 +104,7 @@ veloren-core-pseudo_abilities-sword-cascade = Лавина
     .desc =
         Розріз зверху
         Модифікується залежно від вашої стійки
- common-abilities-sword-basic_cascade = Основна Лавина
+common-abilities-sword-basic_cascade = Основна Лавина
     .desc = Основний розріз зверху
 common-abilities-sword-heavy_cascade = Важка Лавина	
     .desc = Розріз зверху, який може похитнути ворога
@@ -160,11 +160,11 @@ common-abilities-sword-agile_hundred_cuts = Сотня порізів
     .desc =
         Дуже багато швидких розрізів
         Для використання потрібна помірна кількість комбо
-common-abilities-sword-defensive_counter =	Швидка Відповідь
+common-abilities-sword-defensive_counter = Швидка Відповідь
     .desc =
         Швидка атака, яка завдає набагато більшої шкоди ворогу, атаку якого ви парирували
         Для використання потрібна помірна кількість комбо
-common-abilities-sword-crippling_mutilate =	Скалічення
+common-abilities-sword-crippling_mutilate = Скалічення
     .desc = 
         Покалічте ворога, пошкодивши його поранення. Завдає більшої шкоди ворогам, що кровоточать
         Для використання потрібна помірна кількість комбо
